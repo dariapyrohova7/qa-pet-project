@@ -15,13 +15,13 @@ The repository includes:
 
 ---
 
-## 📌 Project Description
+## Project Description
 
 The project includes QA documentation created for both **training purposes** and **real websites**.
 
 ---
 
-### 🔹 Training Documentation
+### Training Documentation
 
 Folders marked as **Training** contain documentation created for a training website or application.
 
@@ -36,14 +36,14 @@ Currently, access to the website is restricted. These documents are kept as lear
 
 ---
 
-### 🔹 Real Websites
+### Real Websites
 
 The repository also contains test documentation and bug reports created while testing **real websites**, including:
 - local Ukrainian websites
 - local Danish website
 - international website
 
-📌 **Note:**  
+**Note:**  
 Test cases and checklist created for **Makeup.dk** can also be applied to **Makeup.ua**, as both websites have an identical interface and functionality.
 
 ---
